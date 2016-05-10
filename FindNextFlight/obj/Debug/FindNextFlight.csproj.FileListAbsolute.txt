@@ -1,0 +1,6 @@
+D:\Projects\VisualStudio\eve\FindNextFlight\FindNextFlight\bin\Debug\FindNextFlight.exe.config
+D:\Projects\VisualStudio\eve\FindNextFlight\FindNextFlight\bin\Debug\FindNextFlight.exe
+D:\Projects\VisualStudio\eve\FindNextFlight\FindNextFlight\bin\Debug\FindNextFlight.pdb
+D:\Projects\VisualStudio\eve\FindNextFlight\FindNextFlight\obj\Debug\FindNextFlight.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\eve\FindNextFlight\FindNextFlight\obj\Debug\FindNextFlight.exe
+D:\Projects\VisualStudio\eve\FindNextFlight\FindNextFlight\obj\Debug\FindNextFlight.pdb

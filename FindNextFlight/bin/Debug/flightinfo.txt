@@ -1,0 +1,10 @@
+flight;254,depart; Milwaukee,arrive;Los Angeles,time;05/10/2016 06:50
+flight;1432,depart;Milwaukee,arrive;Anchorage,time;05/10/2016 08:25
+flight;321,depart;Milwaukee,arrive;New York,time;05/10/2016 10:15
+flight;756,depart;Milwaukee,arrive;St Paul,time;05/10/2016 11:45
+flight;734,depart;Milwaukee,arrive;Dallas,time;05/10/2016 13:00
+flight;5318,depart;Milwaukee,arrive; Atlanta,time;05/10/2016 15:25
+flight;4254,depart;Milwaukee,arrive; New York,time;05/10/2016 18:20
+flight;923,depart;Milwaukee,arrive; Orlando,time;05/10/2016 19:40
+flight;8759,depart;Milwaukee,arrive; Los Angeles,time;05/10/2016 19:55
+flight;9514,depart;Milwaukee,arrive; Cancun,time;05/10/2016 20:20
